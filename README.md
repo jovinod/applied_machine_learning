@@ -4,5 +4,5 @@ This repository intends to capture the learnings from my own experience of data 
 [Model Exploration Framework]()
 List a large number of parameters to take into account and explore while learning a new modelling technique
 
-[Linear Regression]()
+[Linear Regression](https://github.com/jovinod/applied_machine_learning/blob/master/README.md)
 Coming Soon: Based on the parameters scpecified in [Model Exploration Framework](), a detailed description of linear regression
