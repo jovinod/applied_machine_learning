@@ -3,5 +3,5 @@ This repository intends to capture the learnings from my own experience of data 
 
 * [Model Exploration Framework](https://github.com/jovinod/applied_machine_learning/blob/master/model_exploration/ModelExploration.md)
 * [Types of Mean](https://github.com/jovinod/applied_machine_learning/blob/master/mean/MeanTypes.md)
-* [K-Means](https://github.com/jovinod/applied_machine_learning/blob/master/mean/MeanTypes.md)
+* [K-Means](https://github.com/jovinod/applied_machine_learning/blob/master/K-Means/K-Means%20-%20Public.ipynb)
 * [Linear Regression](https://github.com/jovinod/applied_machine_learning/blob/master/README.md)
